@@ -3,3 +3,7 @@
 
 ### Bootstrap para recurso responsivo
 ### HTML5 e CSS3
+
+<p align="center">
+<img src=".github/spotify-clone.png" width="650px">
+</p>
